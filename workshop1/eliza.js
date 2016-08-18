@@ -58,8 +58,8 @@ var rules = {
   ],
   "~*x do you remember ~*y": [
     "Did you think I would forget ~y?",
-    "Why do you think I should recall ~y now?",
-    "What about ~y?",
+    "No ~y now?",
+    "Why do you ask ~y?",
     "You mentioned ~y",
   ],
   "~*x I want ~*y": [
