@@ -61,7 +61,7 @@ img{
     border:2px solid white;
 }
 
-.redacted{
+.{
     background-color: rgb(215, 206, 199);
     color:  rgb(215, 206, 199);
 }
@@ -71,13 +71,13 @@ img{
     float: left;
 }
 
-.ox { 
+.box { 
     width: 250px;
     margin: 15px;
     display: inline-block;
     vertical-align: top;   
 }
-.ox img{
+.box img{
     margin: 0;
     padding: 0;
     width: 100%;
