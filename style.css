@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(12, 12, 13);
+    background-color: rgb(12, 230, 0);
     color: linen;
     font-size: 150%;
     line-height: 1.4;
@@ -71,13 +71,13 @@ img{
     float: left;
 }
 
-.box { 
+.ox { 
     width: 250px;
     margin: 15px;
     display: inline-block;
     vertical-align: top;   
 }
-.box img{
+.ox img{
     margin: 0;
     padding: 0;
     width: 100%;
